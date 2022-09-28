@@ -1,0 +1,11 @@
+Script started on 2022-09-28 00:01:03-04:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="120" LINES="30"]
+[?2004h]0;root@DESKTOP-1U063F7: /mnt/c/Comp Sci/CISC/3140/Lab1root@DESKTOP-1U063F7:/mnt/c/Comp Sci/CISC/3140/Lab1# mkdir test1
+[?2004l[?2004h]0;root@DESKTOP-1U063F7: /mnt/c/Comp Sci/CISC/3140/Lab1root@DESKTOP-1U063F7:/mnt/c/Comp Sci/CISC/3140/Lab1# rmdir test1/
+[?2004l[?2004h]0;root@DESKTOP-1U063F7: /mnt/c/Comp Sci/CISC/3140/Lab1root@DESKTOP-1U063F7:/mnt/c/Comp Sci/CISC/3140/Lab1# ls
+[?2004l[0m[01;32mJavaScript-2022-09-27.log[0m  [01;32mLab1.class[0m  [01;32mLab1.java[0m  [01;32mscript-2022-09-28.log[0m
+[01;32mJavaTime-2022-09-27.txt[0m    [01;32mLab1.iml[0m    [34;42mout[0m        [01;32mtime-2022-09-28.txt[0m
+[?2004h]0;root@DESKTOP-1U063F7: /mnt/c/Comp Sci/CISC/3140/Lab1root@DESKTOP-1U063F7:/mnt/c/Comp Sci/CISC/3140/Lab1# git add Lab1.[K.[K[K[K[K[K[K[K[K[K[K[K[Kit add Lab1.java
+[?2004l[?2004h]0;root@DESKTOP-1U063F7: /mnt/c/Comp Sci/CISC/3140/Lab1root@DESKTOP-1U063F7:/mnt/c/Comp Sci/CISC/3140/Lab1# exit
+[?2004lexit
+
+Script done on 2022-09-28 00:02:18-04:00 [COMMAND_EXIT_CODE="0"]
